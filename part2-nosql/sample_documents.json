@@ -1,0 +1,45 @@
+[
+  {
+    "_id": 1,
+    "product_name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "brand": "Samsung",
+    "specifications": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery": "5000mAh",
+      "storage": "128GB"
+    },
+    "ratings": [4, 5, 5, 3],
+    "in_stock": true
+  },
+  {
+    "_id": 2,
+    "product_name": "Men's T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "brand": "Nike",
+    "size": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "colors": ["Red", "Black", "Blue"],
+    "ratings": [5, 4, 4],
+    "in_stock": true
+  },
+  {
+    "_id": 3,
+    "product_name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2026-04-01",
+    "nutritional_info": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "5g"
+    },
+    "quantity": "1L",
+    "ratings": [4, 5, 5],
+    "in_stock": true
+  }
+]
